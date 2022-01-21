@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maheshkuntumalla
-- 👀 I’m interested in working in Machine Learning projects
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on who are intrested in Machine learning
+- 👀 I’m interested in working in Cloud projects
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on who are intrested in Cloud computing
 - 📫 How to reach me through my gmail
 
 <!---
