@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maheshkuntumalla
+- 👋 Hi, I’m @mahesh k
 - 👀 I’m interested in working in Cloud projects
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on who are intrested in Cloud computing
